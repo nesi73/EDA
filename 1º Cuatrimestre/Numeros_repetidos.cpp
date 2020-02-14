@@ -1,5 +1,4 @@
-// Nombre del alumno .....
-// Usuario del Juez ......
+// Inés Prieto Centeno
 
 
 #include <iostream>
